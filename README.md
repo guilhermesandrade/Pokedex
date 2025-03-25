@@ -6,7 +6,7 @@
 
 <h1 align="center"> 👀 Resultados</h1>
 
-<img align="center" src="./src/assets/image.png"></img>
+<img align="center" src="./src/assets/image.png" width="1920"/>
 <br/>
 <br/>
 
